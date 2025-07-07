@@ -9,7 +9,6 @@ public class InsertBST {
     
     }
 
-   
     public Node insert(Node root, int value) {
         if (root == null) {
             return new Node(value);

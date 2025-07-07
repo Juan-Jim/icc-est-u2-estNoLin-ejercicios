@@ -1,8 +1,5 @@
 package main;
 
-
-
-
 import utils.StudentValidator;
 
 public class App {
@@ -12,8 +9,6 @@ public class App {
         System.out.println("👤 Estudiante: " + estudiante.nombre());
         System.out.println("✉️  Correo: " + estudiante.correo());
         // NO MODIFICAR HASTA AQUÍ
-
-       
     
     }
 

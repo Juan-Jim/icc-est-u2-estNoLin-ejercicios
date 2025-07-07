@@ -6,7 +6,7 @@ import main.Materia.Models.Node;
 public class ListLevels {
 
     public ListLevels() {
-        // Constructor vacío
+        
     }
 
     public List<List<Node>> listLevels(Node root) {
